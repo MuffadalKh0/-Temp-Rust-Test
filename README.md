@@ -1,2 +1,2 @@
 # -Temp-Rust-Test
-this is not worth your time.
+Read the damn code
